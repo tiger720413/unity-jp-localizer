@@ -1,0 +1,5 @@
+meta_dump/bin/
+meta_dump/obj/
+cecil_patch/bin/
+cecil_patch/obj/
+*.bak
